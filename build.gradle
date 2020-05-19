@@ -85,10 +85,10 @@ gradle.projectsEvaluated {
 }
 
 
-idea.project.settings {
-  taskTriggers {
-    afterSync "generateProto"
-  }
-}
+//idea.project.settings {
+//  taskTriggers {
+//    afterSync "generateProto"
+//  }
+//}
 
 
